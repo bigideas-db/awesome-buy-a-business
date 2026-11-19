@@ -1037,6 +1037,9 @@ Many E-2 buyers search between $100K and $500K, but USCIS sets no price list: th
 * [Awesome SaaS Ideas](https://github.com/bigideas-db/awesome-saas-ideas) - SaaS ideas ranked by real complaints and market data.
 * [Awesome App Ideas](https://github.com/bigideas-db/awesome-app-ideas) - app ideas ranked by real user reviews.
 * [Awesome SaaS Valuation](https://github.com/bigideas-db/awesome-saas-valuation) - what software businesses sell for.
+* [Awesome Startup Ideas](https://github.com/bigideas-db/awesome-startup-ideas) - Startup ideas ranked by funding momentum, paying demand and complaints.
+* [Awesome AI Business Ideas](https://github.com/bigideas-db/awesome-ai-business-ideas) - AI agent, automation agency and AI SaaS ideas ranked by operator volume and software gaps.
+* [Awesome Idea Validation](https://github.com/bigideas-db/awesome-idea-validation) - How to validate an idea: checklist, benchmark numbers to beat and market sizing.
 
 ## Cite this list
 
